@@ -1,1 +1,0 @@
-This is a scatterer dependancy for the Outer Planet Mod that aims to replace the outdated Pood's OPM-VO which no longer works on the latest KSP versions. It doesn't include EVE configs to improve performance on the lower-end systems.
